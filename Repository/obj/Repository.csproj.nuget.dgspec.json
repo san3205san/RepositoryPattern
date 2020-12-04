@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Repository\\Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\santhoshkumar.a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santhoshkumar.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\santhoshkumar.a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santhoshkumar.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\santhoshkumar.a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santhoshkumar.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\santhoshkumar.a\\Downloads\\NET-Core-Series-master\\.NET-Core-Series-master\\Part 4\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
